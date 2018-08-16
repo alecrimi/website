@@ -1,1 +1,1 @@
-# websited
+# BrainHack Zurich website
