@@ -1,1 +1,1 @@
-# BrainHack Zurich website
+# Brainhack Zurich website
